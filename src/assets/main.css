@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nabla:EDPT,EHLT@149,9&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Rubik+Wet+Paint&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Nunito", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+html,
+body {
+  height: 100%;
+  overflow: auto;
+}
+::-webkit-scrollbar {
+    display: none; /* Скрыть полосу прокрутки для Webkit */
+  }
